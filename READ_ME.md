@@ -1,10 +1,10 @@
-POST_1
+#POST_1#
 
-Kindly note that the resources within the Data Resources folder are based on my personal research. If you encounter any other resources that seem better or more reliable, you are free to discard my resources list or you could communicate it to me and have my list updated; I welcome updates sincerely.
+Kindly note that the resources within the *Data Resources* folder are based on my personal research. If you encounter any other resources that seem better or more reliable, you are free to discard my resources list or you could communicate it to me and have my list updated; I welcome updates sincerely.
 
-The [data analysis track](https://docs.google.com/document/d/1wItvMT0cLuW7eim-cYmXC9lk-Wzk3EKTgI5PXusTmi0/edit?usp=drivesdk) is a prerequisite to learning other tracks, namely science and engineering. Some portions of the engineering track are needed in the Data Science track and vice versa; it is up to you to decide which ones to use or discard. For example, the Computer science and Database management courses are skills that are usually needed as a Data Engineer.
+The [*Data analysis track*](https://docs.google.com/document/d/1wItvMT0cLuW7eim-cYmXC9lk-Wzk3EKTgI5PXusTmi0/edit?usp=drivesdk) is a prerequisite to learning other tracks, namely science and engineering. Some portions of the engineering track are needed in the Data Science track and vice versa; it is up to you to decide which ones to use or discard. For example, the Computer science and Database management courses are skills that are usually needed as a Data Engineer.
 
-After completing the Excel for Business/Data Visualization with Tableau course, you can proceed to try out the [KPMG data analytics virtual internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) to put your new found skills to the test. 
+After completing the *Excel for Business/Data Visualization with Tableau course*, you can proceed to try out the [KPMG data analytics virtual internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) to put your new found skills to the test. 
 
 Feel free to reach out in case you have any questions or if you simply just want to have a conversation; I also intend on making friends during this journey.
 
