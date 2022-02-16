@@ -1,4 +1,4 @@
-#A. Skills needed#
+#A. Skills needed
 
 1. Mathematics 
 2. Statistics

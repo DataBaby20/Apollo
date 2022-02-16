@@ -1,4 +1,4 @@
-#Resources#
+#Resources
 
 [IBM data engineering certificate*](https://coursera.org/professional-certificates/ibm-data-engineer)
 
