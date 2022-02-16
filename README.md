@@ -22,7 +22,7 @@ Here are list of cloud certifications you could have
 Thank you and God bless.
 
 Yours,
-A newbie data guy.__
+A newbie data guy__
 acemma78@gmail.com
 
 
