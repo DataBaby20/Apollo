@@ -8,6 +8,22 @@
 
 [AWS Boto*](https://app.datacamp.com/learn/courses/introduction-to-aws-boto-in-python)
 
+[Writing effectively with python](https://www.datacamp.com/courses/writing-efficient-python-code)
+
+[Data processing in shell](https://www.datacamp.com/courses/data-processing-in-shell)
+
+[Airflow in python](https://www.datacamp.com/courses/introduction-to-airflow-in-python)
+
+[Intro to pyspark](https://www.datacamp.com/courses/introduction-to-pyspark)
+
+[Big data fundamentals with pyspark](https://www.datacamp.com/courses/big-data-fundamentals-with-pyspark)
+
+[Cleaning data with pyspark](https://www.datacamp.com/courses/cleaning-data-with-pyspark)
+
+[MongoDB with Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
+
+
+
 
 
 
