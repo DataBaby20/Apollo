@@ -1,16 +1,13 @@
 # A. Skills needed
 
-1. Mathematics 
-2. Statistics
-3. Excel
-4. Tableau
-5. Power Bi
-6. Python
-7. Sql 
-8. Github
+1. Mathematics and Statistics
+2. Visualisationa and analysis
+3. Python and Sql
+4. Version Control and Testing
 
 Resources:
 
+## Mathematics and Statistics
 [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 [Calculus 1](https://www.khanacademy.org/math/calculus-1)
@@ -19,21 +16,24 @@ Resources:
 
 [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
-[Khan Academy intro to statistics](https://www.khanacademy.org/math/statistics-probability)
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 
+## Visualisation and Analysis
 [Excel skills for business*](https://coursera.org/specializations/excel)
 
 [Data Visualization with Tableau*](https://coursera.org/specializations/data-visualization)
 
-[Power bi tutorial by Microsoft](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
+[Power BI](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 
-[Python 3 programming on coursera*](https://coursera.org/specializations/python-3-programming)
+## Python & Sql
+[Python 3*](https://coursera.org/specializations/python-3-programming)
 
 [SQL](https://www.coursera.org/learn/sql-for-data-science)
 
-[Data Analysis with Python by DataCamp:*](https://www.datacamp.com/tracks/data-analyst-with-python)
+[Data Analysis with Python*](https://www.datacamp.com/tracks/data-analyst-with-python)
 
-[Git and Github on coursera:*](https://coursera.org/learn/introduction-git-github)
+## Version Control and testing
+[Version Control*](https://coursera.org/learn/introduction-git-github)
 
 [A/B testing](https://bit.ly/3gzmNQS)
 

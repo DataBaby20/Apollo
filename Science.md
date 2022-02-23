@@ -15,25 +15,29 @@ Resources:
 
 [Introductory computer science*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
+## Database and Database Management
 [Database Management](https://www.tutorialspoint.com/dbms/index.htm)
-
-[Web scraping](https://www.coursera.org/learn/python-network-data)
 
 [SQL for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
 
+[Web scraping](https://www.coursera.org/learn/python-network-data)
+
+## Data Science(ML, DeepLearning, and Mathematics for Data science)
 [Mathematics for Data Science*](https://coursera.org/specializations/mathematics-for-data-science)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)
 
 [Deeplearning*](https://coursera.org/specializations/deep-learning)
 
+## Machine Learning DevOps
 [Machine Learning DevOps Engineering(Preferred choice!)](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
-OR
+OR*
 
 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
-[Web development*( not compulsory)](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+## Optional
+[Web development*](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
 
 
