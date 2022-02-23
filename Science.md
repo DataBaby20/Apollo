@@ -13,9 +13,10 @@
 
 Resources: 
 
+## Intro to Computer science
 [Introductory computer science*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-## Database and Database Management
+## Database(Management) & Web scraping
 [Database Management](https://www.tutorialspoint.com/dbms/index.htm)
 
 [SQL for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
@@ -32,7 +33,7 @@ Resources:
 ## Machine Learning DevOps
 [Machine Learning DevOps Engineering(Preferred choice!)](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
-OR*
+**OR**
 
 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
