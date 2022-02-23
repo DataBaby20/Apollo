@@ -13,19 +13,19 @@
 
 Resources: 
 
-[Harvard computer science course*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[Introductory computer science*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 [Database Management](https://www.tutorialspoint.com/dbms/index.htm)
 
-[Web scraping](https://www.tutorialspoint.com/python_web_scraping/python_web_scraping_introduction.htm)
+[Web scraping](https://www.coursera.org/learn/python-network-data)
 
-[SQL Basics for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
+[SQL for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
 
 [Mathematics for Data Science*](https://coursera.org/specializations/mathematics-for-data-science)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)
 
-[Deeplearning: by Andrew ng*](https://coursera.org/specializations/deep-learning)
+[Deeplearning*](https://coursera.org/specializations/deep-learning)
 
 [Machine Learning DevOps Engineering(Preferred choice!)](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 

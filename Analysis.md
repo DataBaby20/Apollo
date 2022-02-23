@@ -29,7 +29,7 @@ Resources:
 
 [Python 3 programming on coursera*](https://coursera.org/specializations/python-3-programming)
 
-[SQL by sololearn](https://www.sololearn.com/Course/SQL/?ref=app)
+[SQL](https://www.coursera.org/learn/sql-for-data-science)
 
 [Data Analysis with Python by DataCamp:*](https://www.datacamp.com/tracks/data-analyst-with-python)
 
