@@ -23,8 +23,7 @@ Resources:
 
 [Web scraping](https://www.coursera.org/learn/python-network-data)
 
-## Data Science(ML, DeepLearning, and Mathematics for Data science)
-[Mathematics for Data Science*](https://coursera.org/specializations/mathematics-for-data-science)
+## Data Science(ML and DeepLearning)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)
 
@@ -36,6 +35,11 @@ Resources:
 **OR**
 
 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
+## Recommended text:
+
+[Mathematics for Machine Learning*](https://mml-book.github.io/)
+
 
 ## Optional
 [Web development*](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
