@@ -1,14 +1,11 @@
 # Data science track
 
 1. Basic computer science( includes lessons on Algorithms and Data Structures)
-2. Database Management 
-3. Web Scraping
-4. SQL for Data Science 
-5. Math for Data Science 
-6. Practical Data Science 
-7. Deeplearning 
-8. Machine Learning DevOps
-9. Web development.(Optional)
+2. Database Management  and web scraping
+3. Mathematical foundations
+4. Data Science(Machine Learning and Deep learning)
+5. Machine Learning DevOps
+6. Web Development
 
 
 Resources: 
