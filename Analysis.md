@@ -10,12 +10,6 @@ Resources:
 ## Mathematics and Statistics
 [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
-[Calculus 1](https://www.khanacademy.org/math/calculus-1)
-
-[Calculus 2](https://www.khanacademy.org/math/calculus-2)
-
-[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
-
 [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Visualisation and Analysis
@@ -26,9 +20,9 @@ Resources:
 [Power BI](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 
 ## Python & Sql
+
 [Python 3*](https://coursera.org/specializations/python-3-programming)
 
-[SQL](https://www.coursera.org/learn/sql-for-data-science)
 
 [Data Analysis with Python*](https://www.datacamp.com/tracks/data-analyst-with-python)
 

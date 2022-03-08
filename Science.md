@@ -23,6 +23,13 @@ Resources:
 
 [Web scraping](https://www.coursera.org/learn/python-network-data)
 
+## Mathematical foundations
+
+[Calculus 1](https://www.khanacademy.org/math/calculus-1)
+
+[Calculus 2](https://www.khanacademy.org/math/calculus-2)
+
+[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 ## Data Science(ML and DeepLearning)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)
