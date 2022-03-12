@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# POST_1
 
-You can use the [editor on GitHub](https://github.com/DataBaby20/Apollo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kindly note that the resources within the *Data Resources* folder are based on my personal research. If you encounter any other resources that seem better or more reliable, you are free to discard my resources or you could communicate it to me and have the list updated. Please note that some courses have similar content; ignore any repititive content that you might come across.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The [*Data analysis track*](https://github.com/Acemma78/Data_Roadmap/blob/master/Analysis.md#a-skills-needed) is a prerequisite to the Data [Science](https://github.com/Acemma78/Data_Roadmap/blob/master/Science.md#data-science-track) track. Some of the content in the [*Data Engineering*](https://github.com/DataBaby20/Apollo/blob/master/Engineering.md) track are needed for Data Scientists and vice versa, so try going through the entire repository.
 
-### Markdown
+After completing the *Excel for Business/Data Visualization with Tableau course*, you can proceed to try out the [KPMG data analytics virtual internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) or other vivrtual internships or bootcamps you come across, to put your new found skills to the test. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to reach out in case you have any questions or if you simply just want to have a conversation; I also intend on making friends during this journey.
 
-```markdown
-Syntax highlighted code block
+Here are list of cloud popular certifications
 
-# Header 1
-## Header 2
-### Header 3
+[Azure(Microsoft)](https://docs.microsoft.com/en-us/learn/certifications/browse/)
 
-- Bulleted
-- List
+[AWS(Amazon Web Services)](https://aws.amazon.com/certification/exams/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[GCP(Google Cloud Platform)](https://cloud.google.com/certification#certification_paths)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Thank you and God bless.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DataBaby20/Apollo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Yours,  
 
-### Support or Contact
+A newbie data guy  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+acemma78@gmail.com
+
+
