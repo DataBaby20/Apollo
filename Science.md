@@ -1,24 +1,25 @@
 # Data science track
 
 1. Basic computer science( includes lessons on Algorithms and Data Structures)
-2. Database Management  and web scraping
+2. Database Management
 3. Mathematical foundations
 4. Data Science(Machine Learning and Deep learning)
 5. Machine Learning DevOps
-6. Web Development
+6. Web Development(optional)
 
 
 Resources: 
 
-## Intro to Computer science
+## Intro to Computer science and Programming
 [Introductory computer science*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+[Python 2](https://www.coursera.org/specializations/python-3-programming)
 
 ## Database(Management) & Web scraping
 [Database Management](https://www.tutorialspoint.com/dbms/index.htm)
 
 [SQL for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
 
-[Web scraping](https://www.coursera.org/learn/python-network-data)
 
 ## Mathematical foundations
 
@@ -27,6 +28,7 @@ Resources:
 [Calculus 2](https://www.khanacademy.org/math/calculus-2)
 
 [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
 ## Data Science(ML and DeepLearning)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)

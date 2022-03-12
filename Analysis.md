@@ -21,7 +21,7 @@ Resources:
 
 ## Python & Sql
 
-[Python 3*](https://coursera.org/specializations/python-3-programming)
+[Python 3*](https://www.coursera.org/specializations/python)
 
 
 [Data Analysis with Python*](https://www.datacamp.com/tracks/data-analyst-with-python)
