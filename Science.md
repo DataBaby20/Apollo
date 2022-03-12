@@ -4,21 +4,21 @@
 2. Database Management
 3. Mathematical foundations
 4. Data Science(Machine Learning and Deep learning)
-5. Machine Learning DevOps
-6. Web Development(optional)
+5. Web Development
+6. Machine Learning DevOps
 
 
 Resources: 
 
 ## Intro to Computer science and Programming
-[Introductory computer science*](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[Introductory computer science](https://cs50.harvard.edu/x/2022/)
 
-[Python 2](https://www.coursera.org/specializations/python-3-programming)
+[Advanced Python](https://www.coursera.org/specializations/python-3-programming)
 
-## Database(Management) & Web scraping
+## Database(Management)
 [Database Management](https://www.tutorialspoint.com/dbms/index.htm)
 
-[SQL for Data Science*](https://coursera.org/specializations/learn-sql-basics-data-science)
+[SQL for Data Science](https://coursera.org/specializations/learn-sql-basics-data-science)
 
 
 ## Mathematical foundations
@@ -29,26 +29,22 @@ Resources:
 
 [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
+[Aid: Mathematics for Machine Learning](https://mml-book.github.io/)
+
 ## Data Science(ML and DeepLearning)
 
 [WQU data science programme](https://www.wqu.edu/programs/data-science/)
 
-[Deeplearning*](https://coursera.org/specializations/deep-learning)
+[Unit testing for Data science](https://app.datacamp.com/learn/courses/unit-testing-for-data-science-in-python)
+
+[Deeplearning](https://coursera.org/specializations/deep-learning)
+
+## Web Development
+
+[Web development](https://cs50.harvard.edu/web/2020/)
 
 ## Machine Learning DevOps
-[Machine Learning DevOps Engineering(Preferred choice!)](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
-
-**OR**
-
-[Machine Learning Engineering for Production (MLOps)](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-
-## Recommended text:
-
-[Mathematics for Machine Learning*](https://mml-book.github.io/)
-
-
-## Optional
-[Web development*](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+[Machine Learning DevOps Engineering](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
 
 
@@ -79,4 +75,6 @@ Resources:
 
 
 
-Note: You can acquire certifications in other cloud technologies such as AWS, AZURE and GCP; the links to these cloud certifications can be found in the *READ_ME* file. All other skills are necessary. Resources with an asterisk are not free, but can be taken on audit. Also try and partake in virtual internships or bootcamps
+
+
+Note: You can acquire certifications in other cloud technologies such as AWS, AZURE and GCP; the links to these cloud certifications can be found in the *READ_ME* file. All other skills are necessary.Some of the resources are not free , but can be taken on audit. Also try and partake in virtual internships or bootcamps
