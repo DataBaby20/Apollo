@@ -1,4 +1,4 @@
-# 
+## Hello, and i hope you find your stay worthwhile.
 
 Note that these  resources are based on my personal research. If you encounter any other resources that seem better or more reliable, you are free to discard my resources or you could communicate it to me and have the list updated. Please note that some courses have similar content; ignore any repititive content that you might come across.
 
