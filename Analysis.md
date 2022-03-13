@@ -2,7 +2,7 @@
 
 1. Mathematics and Statistics
 2. Visualisationa and analysis
-3. Python and Sql
+3. Python, Sql and the command line
 4. Version Control and Testing
 
 Resources:
@@ -19,12 +19,13 @@ Resources:
 
 [Power BI](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 
-## Python & Sql
+## Python, Sql and the command line
 
 [Python 3](https://www.coursera.org/specializations/python)
 
-
 [Data Analysis with Python*](https://www.datacamp.com/tracks/data-analyst-with-python)
+
+[Data Science in the command line](https://datascienceatthecommandline.com/2e/index.html)
 
 ## Version Control and testing
 [Version Control*](https://coursera.org/learn/introduction-git-github)

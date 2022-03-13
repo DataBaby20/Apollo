@@ -38,5 +38,5 @@
 
 
 
-Note: You can acquire certifications in other cloud technologies such as AWS, AZURE and GCP; the links to these cloud certifications can be found in the *READ_ME* file. All other skills are necessary.Some of the resources are not free , but can be taken on audit. Also try and partake in virtual internships or bootcamps
+Note: You can acquire certifications in other cloud technologies such as AWS, AZURE and GCP; the links to these cloud certifications can be found in the *READ_ME* file. All other skills are necessary.Some of the resources are not free , but can be taken on audit. Also try and partake in virtual internships or bootcamps. 
 

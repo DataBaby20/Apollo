@@ -1,6 +1,6 @@
-# Data science track
+# Skills needed
 
-1. Basic computer science( includes lessons on Algorithms and Data Structures)
+1. Basic computer science
 2. Database Management
 3. Mathematical foundations
 4. Data Science(Machine Learning and Deep learning)
@@ -10,7 +10,7 @@
 
 Resources: 
 
-## Intro to Computer science and Programming
+## Computer science and Programming
 [Introductory computer science](https://cs50.harvard.edu/x/2022/)
 
 [Advanced Python](https://www.coursera.org/specializations/python-3-programming)
