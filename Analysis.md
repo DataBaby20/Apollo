@@ -13,9 +13,9 @@ Resources:
 [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Visualisation and Analysis
-[Excel skills for business*](https://coursera.org/specializations/excel)
+[Excel skills for business](https://coursera.org/specializations/excel)
 
-[Data Visualization with Tableau*](https://coursera.org/specializations/data-visualization)
+[Data Visualization with Tableau](https://coursera.org/specializations/data-visualization)
 
 [Power BI](https://docs.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 
@@ -23,12 +23,10 @@ Resources:
 
 [Python 3](https://www.coursera.org/specializations/python)
 
-[Data Analysis with Python*](https://www.datacamp.com/tracks/data-analyst-with-python)
-
-[Data Science in the command line](https://datascienceatthecommandline.com/2e/index.html)
+[Data Analysis with Python](https://www.datacamp.com/tracks/data-analyst-with-python)
 
 ## Version Control and testing
-[Version Control*](https://coursera.org/learn/introduction-git-github)
+[Version Control](https://coursera.org/learn/introduction-git-github)
 
 [A/B testing](https://bit.ly/3gzmNQS)
 
