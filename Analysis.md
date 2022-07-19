@@ -21,9 +21,32 @@ Resources:
 
 ## Python, Sql and the command line
 
+### Python
+
 [Python 3](https://www.coursera.org/specializations/python)
 
+[Writing effecient code](https://app.datacamp.com/learn/courses/writing-efficient-python-code)
+
 [Data Analysis with Python](https://www.datacamp.com/tracks/data-analyst-with-python)
+
+[Importing and cleaning data in Python](https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python)
+
+[Streamlined Data Ingestion](https://app.datacamp.com/learn/courses/streamlined-data-ingestion-with-pandas)
+
+[Working with categorical data](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
+
+[Data Viz with python](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python)
+
+
+### SQL
+
+[Data Analysis in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql)
+
+[Analysing Business Data in SQL](https://app.datacamp.com/learn/courses/analyzing-business-data-in-sql)
+
+[Applying SQL to real world problems](https://app.datacamp.com/learn/courses/applying-sql-to-real-world-problems)
+
+[Reporting in SQL ](https://app.datacamp.com/learn/courses/reporting-in-sql)
 
 ## Version Control and testing
 [Version Control](https://coursera.org/learn/introduction-git-github)
