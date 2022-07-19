@@ -39,6 +39,9 @@ Resources:
 
 [Deeplearning](https://coursera.org/specializations/deep-learning)
 
+
+## Data science on the command line
+[Data Science on the command line](https://datascienceatthecommandline.com/2e/index.html)
 ## Web Development
 
 [Web development](https://cs50.harvard.edu/web/2020/)
